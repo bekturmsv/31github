@@ -2,4 +2,4 @@
 
 <span style="font-size: 2rem;"> Started participating in the 31 coding challenge</span>
 
-<span style="font-size: 2rem;">My progress 7 / 31</span>
+<span style="font-size: 2rem;">My progress 8 / 31</span>
