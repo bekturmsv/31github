@@ -4,4 +4,4 @@
 
 <span style="font-size: 2rem;"> Continued the challenge on his own initiative.</span>
 
-<span style="font-size: 2rem;">My progress 39 / 40</span>
+<span style="font-size: 2rem;">My progress 40 / 50</span>
