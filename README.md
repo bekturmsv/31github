@@ -4,4 +4,6 @@
 
 <span style="font-size: 2rem;"> Continued the challenge on his own initiative.</span>
 
-<span style="font-size: 2rem;">My progress 41 / 50</span>
+<span style="font-size: 2rem;">Finished the 31github challenge 31/31 (21.12.2023)</span>
+
+<span style="font-size: 2rem;">My progress now 42 / 50</span>
