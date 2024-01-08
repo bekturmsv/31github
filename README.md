@@ -6,4 +6,6 @@
 
 <span style="font-size: 2rem;">Finished the 31github challenge 31/31 (21.12.2023)</span>
 
-<span style="font-size: 2rem;">My progress now 49 / 50</span>
+<span style="font-size: 2rem;">My progress now 50 / 50</span>
+
+<span style="font-size: 2rem;">I'm stopping at 50 days.</span>
